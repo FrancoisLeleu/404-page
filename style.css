@@ -1,3 +1,6 @@
 
 
-<h1 class="animate__animated animate__bounce">An animated element</h1>
+  .dropshadow {
+    filter: drop-shadow(5px 9px 2px black);
+    -webkit-filter: drop-shadow(5px 9px 2px black);
+}
